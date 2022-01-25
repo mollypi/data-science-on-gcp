@@ -1,5 +1,7 @@
 # data-science-on-gcp
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7248024c-a014-49e9-a185-083ba7236197.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/data-science-on-gcp?orgId=561911742905)  
+
 Source code accompanying book:
 
 <table>
